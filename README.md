@@ -1,6 +1,6 @@
 # 🩺 AidPod — A Decentralized Fundraising Platform for Verified Medical Campaigns, changing lives one ADA at a time
 
-MedStakes is a decentralized application (dApp) built on the **Cardano blockchain** to raise funds for **hospital-verified medical issues**. It provides a transparent, accountable, and decentralized solution to medical fundraising, where contributors lock their ADA into smart contracts and funds are released **milestone-by-milestone** through a **2-of-3 multisig validation** process involving the platform, recipient, and a trusted third-party (e.g., NGO).
+AidPod is a decentralized application (dApp) built on the **Cardano blockchain** to raise funds for **hospital-verified medical issues**. It provides a transparent, accountable, and decentralized solution to medical fundraising, where contributors lock their ADA into smart contracts and funds are released **milestone-by-milestone** through a **2-of-3 multisig validation** process involving the platform, recipient, and a trusted third-party (e.g., NGO).
 
 ---
 
